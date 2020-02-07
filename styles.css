@@ -1,0 +1,75 @@
+body {
+  background-color: white;
+  font-family: 'Solway', serif;
+
+}
+
+.container {
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+div {
+}
+
+.header {
+  color: blue;
+  display: flex;
+  justify-content: space-between; 
+}
+
+.Branding {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 32px;
+  display: flex;
+  justify-content: space-between; 
+  font-weight:bold;
+
+}
+
+.Branding_Social {
+    padding-top: 50px;
+}
+
+.placeholder {
+
+}
+
+.placeholder img {
+    width: 100%;
+}
+
+.Below_Text {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: justify;
+    font-family: 'Gupter', serif;
+}
+
+.Slideshow {
+    display: flex;
+    justify-content: space-between; 
+    padding-top: 90px;
+    padding-bottom: 50px;
+}
+
+.Slideshow img {
+    width: 30%;
+
+
+}
+
+.Explore {
+    display: flex;
+    justify-content: space-between; 
+}
+.Explore_Button {
+   
+}
+.Explore_Text {
+    font-family: 'Gupter', serif;
+    max-width: 45%;
+
+}
