@@ -1,24 +1,19 @@
 body {
   background-color: white;
   font-family: 'Solway', serif;
-
 }
-
 .container {
     max-width: 1170px;
     margin: 0 auto;
 }
-
 div {
 }
-
 .header {
   color: blue;
   display: flex;
   justify-content: space-between; 
 }
-
-.Branding {
+.branding {
   padding-top: 50px;
   padding-bottom: 50px;
   font-family: 'Montserrat', sans-serif;
@@ -28,48 +23,39 @@ div {
   font-weight:bold;
 
 }
-
-.Branding_Social {
+.branding-social {
     padding-top: 50px;
 }
-
 .placeholder {
 
 }
-
 .placeholder img {
     width: 100%;
 }
-
-.Below_Text {
+.below-text {
     padding-top: 20px;
     padding-bottom: 20px;
     text-align: justify;
-    font-family: 'Gupter', serif;
+    font-family: 'Arial';
+    line-height: 2;
 }
-
-.Slideshow {
+.slideshow {
     display: flex;
     justify-content: space-between; 
     padding-top: 90px;
     padding-bottom: 50px;
 }
-
-.Slideshow img {
+.slideshow img {
     width: 30%;
-
-
 }
-
-.Explore {
+.explore {
     display: flex;
     justify-content: space-between; 
 }
-.Explore_Button {
+.explore-button {
    
 }
-.Explore_Text {
+.explore-text {
     font-family: 'Gupter', serif;
     max-width: 45%;
-
 }
